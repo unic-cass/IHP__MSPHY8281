@@ -1,0 +1,3 @@
+[submodule "dependencies/PMIC"]
+	path = dependencies/PMIC
+	url = https://github.com/AugustoSbarbaro/FloatingGateDCDC
