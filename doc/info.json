@@ -4,11 +4,11 @@
   "technology": "IHP",
   "unique_id": "8281",
   "license": "Apache-2.0",
-  "trl": 0,
-  "sealring_x": 1.0,
-  "sealring_y": 1.0,
-  "repository": "",
-  "pdk_version": "",
+  "trl": 1,
+  "sealring_x": 2.0,
+  "sealring_y": 2.0,
+  "repository": "https://github.com/unic-cass/IHP__MSPHY8281.git",
+  "pdk_version": "5cccb161f7492697cfa52eb14dc03beb00bdca9e",
   "process": "SG13CMOS",
   "dependencies": {
     "ADC": {
@@ -22,7 +22,7 @@
     }
   },
   "tools": {},
-  "top_cell_name": "MSPHY8281",
+  "top_cell_name": "user_project_wrapper",
   "release": {
     "version": "v.1.0.0",
     "gds": "release/v.1.0.0/gds",

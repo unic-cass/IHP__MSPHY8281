@@ -3,11 +3,11 @@ name: Check Workflow Sync
 # .github/workflows-staged/ of the generated IP repository. It does not
 # update .github/workflows automatically. After a sync, it raises/updates an
 # issue with the list of staged files and a manual copy instruction.
-
-on:
-  schedule:
-    - cron: "0 3 * * *"
-  workflow_dispatch:
+on: [push]
+# on:
+#   schedule:
+#     - cron: "0 3 * * *"
+#   workflow_dispatch:
 
 permissions:
   contents: write
