@@ -4,6 +4,3 @@
 [submodule "dependencies/padring"]
 	path = dependencies/padring
 	url = https://github.com/duyhieubui/unic_cass_2025_team04_padring.git
-[submodule "dependencies/OTA"]
-	path = dependencies/OTA
-	url = https://github.com/bhavesh15112004/IHP__OTA5174.git
