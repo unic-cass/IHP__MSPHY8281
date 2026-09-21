@@ -1,6 +1,3 @@
-[submodule "dependencies/PMIC"]
-	path = dependencies/PMIC
-	url = https://github.com/AugustoSbarbaro/FloatingGateDCDC.git
 [submodule "dependencies/padring"]
 	path = dependencies/padring
 	url = https://github.com/duyhieubui/unic_cass_2025_team04_padring.git
